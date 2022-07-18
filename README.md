@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## No Mann's Land
 
-You can use the [editor on GitHub](https://github.com/No-Manns-Land/NML-Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Team Fortress: No Mann's Land is a total conversion for TF2C that turns it into a full-fledged World War II shooter. The mod is inspired by Day Of Defeat, Battlefield 1942, as well as other classic games. No Mann's Land will include new maps, weapons, and features designed to create as seamless of a transition from the Gravel War to World War II. This will all be done using the custom weapons framework included with Team Fortress 2 Classic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
